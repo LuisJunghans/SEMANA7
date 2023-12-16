@@ -7,3 +7,4 @@ O programa conta com alguns recursos como:
 - Cadastro de estudantes, professores, aulas e salas;
 - Edição dos itens mencionados acima;
 - Remoção dos mesmos. 
+- Uma interface simples de terminal...
